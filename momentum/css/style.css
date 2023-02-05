@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+*
+{margin: 0;
+    padding: 0;
+
+}
+html,body,#bg {
+    height : 100%;
+    width:100%;
+    overflow:hidden;
+    
+}
